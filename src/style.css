@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@theme {
+    --color-primary: oklch(62.3% 0.233 40.5);
+    --color-secondary: oklch(0.354 0.055 246.5);
+
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.reveal {
+    opacity: 0;
+    animation: fadeInUp 0.6s ease forwards;
+}
+
+.reveal:nth-child(1) {
+    animation-delay: 0.1s;
+}
+
+.reveal:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.reveal:nth-child(3) {
+    animation-delay: 0.3s;
+}
+
+.reveal:nth-child(4) {
+    animation-delay: 0.4s;
+}
+
+.reveal:nth-child(5) {
+    animation-delay: 0.5s;
+}
+
+.reveal:nth-child(6) {
+    animation-delay: 0.6s;
+}
+
+@keyframes marquee {
+    0% {
+        transform: translateX(0%);
+    }
+
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+.animate-marquee {
+    animation: marquee 30s linear infinite;
+}
