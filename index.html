@@ -36,7 +36,7 @@
 
         <!-- Desktop Menu -->
         <div class="hidden lg:flex items-center gap-x-10">
-          <a href="#about"
+          <a href="about/"
             class="text-sm font-semibold text-white/90 hover:text-white transition relative after:absolute after:left-0 after:-bottom-1 after:h-[2px] after:w-0 after:bg-white after:transition-all hover:after:w-full">
             About Us
           </a>
@@ -44,7 +44,7 @@
             class="text-sm font-semibold text-white/90 hover:text-white transition relative after:absolute after:left-0 after:-bottom-1 after:h-[2px] after:w-0 after:bg-white after:transition-all hover:after:w-full">
             Services
           </a>
-          <a href="projects/index.html"
+          <a href="projects/"
             class="text-sm font-semibold text-white/90 hover:text-white transition relative after:absolute after:left-0 after:-bottom-1 after:h-[2px] after:w-0 after:bg-white after:transition-all hover:after:w-full">
             Projects
           </a>
@@ -68,7 +68,7 @@
 
         <!-- Mobile Menu Button -->
         <div class="lg:hidden">
-          <button command="show-modal" commandfor="mobile-menu"
+          <button id="mobile-menu-btn" type="button"
             class="inline-flex items-center justify-center rounded-md p-2 text-white hover:bg-white/10">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" class="h-6 w-6">
               <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
@@ -77,6 +77,28 @@
         </div>
 
       </nav>
+
+      <!-- Mobile Menu (Hidden by default) -->
+      <div id="mobile-menu" class="hidden lg:hidden fixed inset-0 z-[60] bg-red-900/90 backdrop-blur-md">
+        <div class="flex flex-col items-center justify-center gap-8 p-6">
+          <!-- Close Button -->
+          <button id="close-menu-btn" class="absolute top-6 right-6 text-white p-2 hover:bg-white/10 rounded-full">
+            <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+
+          <a href="about/" class="text-2xl font-semibold text-white hover:text-primary transition">About Us</a>
+          <a href="#services" class="text-2xl font-semibold text-white hover:text-primary transition">Services</a>
+          <a href="projects/" class="text-2xl font-semibold text-white hover:text-primary transition">Projects</a>
+          <a href="#sectors" class="text-2xl font-semibold text-white hover:text-primary transition">Sectors</a>
+          <a href="#contact" class="text-2xl font-semibold text-white hover:text-primary transition">Contact</a>
+          <a href="#contact"
+            class="px-8 py-3 bg-primary text-white font-semibold rounded hover:bg-white hover:text-primary transition mt-4">
+            Request Consultation
+          </a>
+        </div>
+      </div>
     </header>
 
     <!-- HERO CONTENT -->
@@ -555,7 +577,7 @@
       <div class="mt-20 grid grid-cols-1 gap-12 sm:grid-cols-2 lg:grid-cols-3">
 
         <!-- Project 1: Residential Villa -->
-        <div class="group relative overflow-hidden rounded- shadow-lg bg-white">
+        <a href="projects/residential-villa/" class="group block relative overflow-hidden rounded- shadow-lg bg-white">
           <img
             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1qYB8GwHabb_LdtnR0DCRf_oiNaKZK1Ex-evnatppa5qMld6_rELjDeaSzoo7HN32XZ5Sufp6ClA_szDoEqG35u6EaEOlpyKXRCwNKj72w4OSdR_JY0tItj9dkvHNlVcVbKykVvd5lAPadkcTSxsl9afz3dpH9aRzZ71eLf-QIvla0809_-n1NtzTOV8/s0/Contemporary-Two-Storey-Residence.jpg"
             alt="Luxury modern residential villa in Lagos, Nigeria"
@@ -565,10 +587,10 @@
             <p class="mt-2 text-gray-600">Luxury residential villa designed with modern architecture and sustainable
               materials.</p>
           </div>
-        </div>
+        </a>
 
         <!-- Project 2: Commercial Complex -->
-        <div class="group relative overflow-hidden  shadow-lg bg-white">
+        <a href="projects/commercial-complex/" class="group block relative overflow-hidden shadow-lg bg-white">
           <img
             src="https://amazingarchitecture.com/storage/files/1/Architecture%20firms/SAOTA/Kingsway%20Tower/01-SOTA-KINGSWAY-TOWER-LAGOS-NIGERIA.jpg"
             alt="Kingsway Tower modern commercial building in Lagos, Nigeria"
@@ -578,10 +600,10 @@
             <p class="mt-2 text-gray-600">A multi-story commercial building with contemporary design and efficient
               layout.</p>
           </div>
-        </div>
+        </a>
 
         <!-- Project 3: Hospitality Resort -->
-        <div class="group relative overflow-hidden  shadow-lg bg-white">
+        <a href="projects/hospitality-resort/" class="group block relative overflow-hidden shadow-lg bg-white">
           <img
             src="https://www.panticarchitects.com/img/full-size/lodges-hotels/hyatt-hotel-lagos-pantic-architects-13.webp"
             alt="Modern luxury hotel design in Lagos, Nigeria"
@@ -591,10 +613,10 @@
             <p class="mt-2 text-gray-600">A fully integrated resort with eco-friendly architecture and luxury amenities.
             </p>
           </div>
-        </div>
+        </a>
 
         <!-- Project 4: Institutional Building -->
-        <div class="group relative overflow-hidden  shadow-lg bg-white">
+        <a href="projects/institutional-building/" class="group block relative overflow-hidden shadow-lg bg-white">
           <img src="https://www.wigweuniversity.edu.ng/wp-content/uploads/2023/11/first-Ivy-League-institution.jpg"
             alt="Modern university campus building, Wigwe University Nigeria"
             class="w-full h-80 object-cover transition-transform duration-300 group-hover:scale-105">
@@ -603,10 +625,10 @@
             <p class="mt-2 text-gray-600">Modern educational building designed for functionality, comfort, and
               aesthetics.</p>
           </div>
-        </div>
+        </a>
 
         <!-- Project 5: Renovation Project -->
-        <div class="group relative overflow-hidden  shadow-lg bg-white">
+        <a href="projects/renovation-project/" class="group block relative overflow-hidden shadow-lg bg-white">
           <img src="https://i.ytimg.com/vi/oU-7LvVrCQA/maxresdefault.jpg"
             alt="Before and after house upgrade to modern duplex in Nigeria"
             class="w-full h-80 object-cover transition-transform duration-300 group-hover:scale-105">
@@ -615,10 +637,10 @@
             <p class="mt-2 text-gray-600">Complete renovation and remodeling of residential units with a modern touch.
             </p>
           </div>
-        </div>
+        </a>
 
         <!-- Project 6: Engineering Infrastructure -->
-        <div class="group relative overflow-hidden  shadow-lg bg-white">
+        <a href="projects/engineering-infrastructure/" class="group block relative overflow-hidden shadow-lg bg-white">
           <img
             src="https://www.abiq.io/wp-content/uploads/2024/07/2048px-Flyover_bridge_construction_Port_Harcourt_Nigeria_04.jpg"
             alt="Flyover bridge construction in Port Harcourt, Nigeria"
@@ -628,10 +650,8 @@
             <p class="mt-2 text-gray-600">Structural engineering project focusing on durability, safety, and innovative
               design.</p>
           </div>
-        </div>
+        </a>
 
-      </div>
-    </div>
   </section>
   <section id="process-section" class="relative bg-cover bg-center"
     style="background-image: url('/img.jpg'); background-attachment: fixed;">
