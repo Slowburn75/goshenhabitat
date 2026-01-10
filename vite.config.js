@@ -15,6 +15,7 @@ export default defineConfig({
                 institutional_building: 'projects/institutional-building/index.html',
                 renovation_project: 'projects/renovation-project/index.html',
                 engineering_infrastructure: 'projects/engineering-infrastructure/index.html',
+                conference_center: 'projects/conference-center/index.html',
             },
         },
     },
