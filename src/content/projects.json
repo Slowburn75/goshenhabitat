@@ -1,0 +1,582 @@
+[
+  {
+    "slug": "amazing-grace-house",
+    "title": "Amazing Grace House",
+    "category": "Commercial",
+    "facts": [
+      {
+        "label": "Client",
+        "value": "Colximate Insurance Brokers"
+      },
+      {
+        "label": "Location",
+        "value": "Lagos"
+      },
+      {
+        "label": "Status",
+        "value": "Completed"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Construction"
+      },
+      {
+        "label": "Value",
+        "value": "Undisclosed"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            We successfully completed the construction of Amazing Grace House for Colximate Insurance\n                            Brokers.\n                            This commercial project required precision engineering and adherence to strict timelines.\n                        </p>\n                        <p>\n                            The building serves as a modern office space, designed to foster productivity and growth for\n                            the client.\n                        </p>"
+      },
+      {
+        "title": "Challenges",
+        "html": "<ul>\n                            <li><strong>Urban Logistics:</strong> Managing construction materials and equipment in a\n                                busy urban environment.</li>\n                            <li><strong>Timeline Constraints:</strong> Delivering the project within a tight schedule to\n                                meet the client's operational needs.</li>\n                        </ul>"
+      },
+      {
+        "title": "Outcome",
+        "html": "<p>\n                            A modern, functional commercial building that meets all client specifications and safety\n                            standards.\n                        </p>"
+      }
+    ],
+    "media": []
+  },
+  {
+    "slug": "catholic-church-gbagada",
+    "title": "Catholic Church",
+    "category": "Institutional",
+    "facts": [
+      {
+        "label": "Client",
+        "value": "Catholic Archdiocese"
+      },
+      {
+        "label": "Location",
+        "value": "Yetunde Brown Close, Gbagada, Lagos"
+      },
+      {
+        "label": "Year Completed",
+        "value": "2015"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Architectural Design Construction"
+      },
+      {
+        "label": "Value",
+        "value": "Undisclosed"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            The Our Lady Queen of Peace Catholic Church project involved the design and construction of\n                            a new\n                            worship center in Gbagada, Lagos. The design emphasizes natural light, acoustics, and a\n                            solemn\n                            atmosphere appropriate for worship.\n                        </p>\n                        <p>\n                            The structure was built to accommodate a large congregation while maintaining a sense of\n                            community\n                            and reverence.\n                        </p>"
+      },
+      {
+        "title": "Challenges",
+        "html": "<ul>\n                            <li><strong>Site Constraints:</strong> Maximizing the auditorium capacity within a confined\n                                urban site.</li>\n                            <li><strong>Timing:</strong> Coordinating construction activities around church schedules\n                                and community events.</li>\n                        </ul>"
+      },
+      {
+        "title": "Outcome",
+        "html": "<p>\n                            A landmark religious edifice that serves as a spiritual home for thousands of parishioners.\n                        </p>"
+      }
+    ],
+    "media": [
+      "/img/church1.jpeg",
+      "/img/church2.jpeg",
+      "/img/church3.jpeg",
+      "/img/church4.jpeg",
+      "/img/church5.jpeg",
+      "/img/church6.jpeg",
+      "/img/church7.jpeg"
+    ]
+  },
+  {
+    "slug": "commercial-complex",
+    "title": "House Of Grace Fasion House",
+    "category": "Commercial",
+    "facts": [
+      {
+        "label": "Project Title",
+        "value": "House of Grace Fashion House"
+      },
+      {
+        "label": "Location",
+        "value": "Opposite Big Treat Eatery, Omole Junction, Agidingbi, Ikeja, Lagos"
+      },
+      {
+        "label": "Year Completed",
+        "value": "2010"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Architectural Design Building Construction Structural & Finishing Works Electrical & Plumbing Installations"
+      },
+      {
+        "label": "Project Type",
+        "value": "Commercial Building"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            This project involved the design and construction of the House of Grace Fashion House,\n                            strategically located opposite Big Treat Eatery at Omole Junction, Agidingbi, Ikeja, Lagos.\n                            The facility was developed to serve as a dedicated fashion production, showroom,\n                            and administrative space.\n                        </p>\n                        <p>\n                            Our engagement covered architectural design, structural construction,\n                            and the coordination of all building services to deliver a functional\n                            and visually appealing commercial building tailored to the client\u2019s operational needs.\n                        </p>"
+      },
+      {
+        "title": "Challenges",
+        "html": "<ul>\n                            <li>\n                                <strong>Urban Location:</strong> Managing construction activities within a busy\n                                commercial corridor.\n                            </li>\n                            <li>\n                                <strong>Functional Planning:</strong> Designing spaces that efficiently supported\n                                production,\n                                display, and office functions.\n                            </li>\n                            <li>\n                                <strong>Schedule Control:</strong> Completing the project within the agreed timeline\n                                to enable early business operations.\n                            </li>\n                        </ul>"
+      },
+      {
+        "title": "Outcome",
+        "html": "<p>\n                            The project was successfully completed in 2010 and delivered as a purpose-built fashion\n                            house\n                            that enhanced the client\u2019s operational efficiency and brand presence.\n                            The building continues to function as a recognizable commercial facility within the\n                            Omole\u2013Agidingbi axis.\n                        </p>"
+      }
+    ],
+    "media": [
+      "/img/hog.jpg"
+    ]
+  },
+  {
+    "slug": "conference-center",
+    "title": "Conference Center",
+    "category": "Institutional / Commercial",
+    "facts": [
+      {
+        "label": "Client",
+        "value": "Private Client"
+      },
+      {
+        "label": "Location",
+        "value": "Ilawe-Ekiti, Ekiti State"
+      },
+      {
+        "label": "Status",
+        "value": "Ongoing"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Design & Build Construction Management Structural Engineering"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            The Ongoing Conference Center project at Ilawe-Ekiti in Ekiti State is a landmark\n                            development aimed at providing a world-class venue for conferences, conventions, and social\n                            events.\n                            Designed with modern architectural principles, the center will feature spacious auditoriums,\n                            meeting rooms, and banquet halls.\n                        </p>\n                        <p>\n                            This project underscores our commitment to delivering high-quality institutional and\n                            commercial infrastructure that fosters community engagement and economic growth.\n                        </p>"
+      },
+      {
+        "title": "Key Features",
+        "html": "<ul>\n                            <li><strong>Capacity:</strong> Large capacity main auditorium and multiple breakout rooms.\n                            </li>\n                            <li><strong>Technology:</strong> Integrated state-of-the-art audio-visual systems.</li>\n                            <li><strong>Sustainability:</strong> Energy-efficient lighting and cooling systems.</li>\n                        </ul>"
+      },
+      {
+        "title": "Status",
+        "html": "<p>\n                            The project is currently ongoing, with structural works progressing according to schedule.\n                            We are maintaining strict quality control and safety standards throughout the construction\n                            phase.\n                        </p>"
+      }
+    ],
+    "media": [
+      "/img/ilawe.jpeg",
+      "/img/ilawe2.jpeg",
+      "/img/drone.mp4"
+    ]
+  },
+  {
+    "slug": "engineering-infrastructure",
+    "title": "Port Harcourt Flyover",
+    "category": "Infrastructure",
+    "facts": [
+      {
+        "label": "Client",
+        "value": "Rivers State Government"
+      },
+      {
+        "label": "Location",
+        "value": "Port Harcourt, Rivers State"
+      },
+      {
+        "label": "Year Completed",
+        "value": "2023"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Structural Engineering Civil Construction Project Management"
+      },
+      {
+        "label": "Value",
+        "value": "Public Infrastructure"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            The Port Harcourt Flyover project was a critical infrastructure initiative aimed at reducing\n                            traffic congestion in a key urban artery.\n                            The project involved the design and construction of a dual-carriage flyover bridge with\n                            associated service lanes.\n                            Our engineering team utilized advanced structural analysis to ensure longevity and safety.\n                        </p>\n                        <p>\n                            The bridge features a post-tensioned concrete deck and reinforced concrete piers.\n                            It was designed to withstand heavy traffic loads and environmental stresses typical of the\n                            region.\n                        </p>"
+      },
+      {
+        "title": "Challenges",
+        "html": "<ul>\n                            <li><strong>Traffic Management:</strong> Maintaining traffic flow during construction was a\n                                major logistical hurdle.</li>\n                            <li><strong>Soil Conditions:</strong> Poor soil bearing capacity required deep pile\n                                foundations.\n                            </li>\n                            <li><strong>Public Safety:</strong> Ensuring the safety of pedestrians and motorists near\n                                the\n                                construction zone.</li>\n                        </ul>"
+      },
+      {
+        "title": "Outcome",
+        "html": "<p>\n                            The flyover was completed ahead of schedule and has significantly improved traffic flow in\n                            the area.\n                            It stands as a testament to our capability in delivering complex civil engineering projects.\n                        </p>"
+      }
+    ],
+    "media": []
+  },
+  {
+    "slug": "hospitality-resort",
+    "title": "Royal Cedar Hotel",
+    "category": "Hospitality",
+    "facts": [
+      {
+        "label": "Client",
+        "value": "ROYAL CEDAR HOTEL"
+      },
+      {
+        "label": "Location",
+        "value": "AJIWE, AJAH, LAGOS STATE"
+      },
+      {
+        "label": "Year Completed",
+        "value": "2007"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Architectural Design Civil Engineering Landscape Design"
+      },
+      {
+        "label": "Value",
+        "value": "Undisclosed"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            Royal Cedar Hotel is a luxury resort featuring 150 guest rooms, private villas, a spa,\n                            and multiple dining venues.\n                            The design concept draws inspiration from the local coastal landscape, using natural\n                            materials and organic forms.\n                            We provided full architectural and engineering services for this expansive project.\n                        </p>\n                        <p>\n                            The resort is designed to be eco-friendly, with solar power integration, rainwater\n                            harvesting, and a waste management system.\n                            It offers guests a seamless blend of modern comfort and natural beauty.\n                        </p>"
+      },
+      {
+        "title": "Challenges",
+        "html": "<ul>\n                            <li><strong>Environmental Impact:</strong> Minimizing disruption to the local ecosystem\n                                during\n                                construction.</li>\n                            <li><strong>Remote Location:</strong> Transporting materials and workforce to the coastal\n                                site.\n                            </li>\n                            <li><strong>Weather:</strong> Managing construction schedules during the rainy season.</li>\n                        </ul>"
+      },
+      {
+        "title": "Outcome",
+        "html": "<p>\n                            The resort opened to rave reviews and has become a top destination for luxury travelers.\n                            It has set a benchmark for sustainable tourism development in the region.\n                        </p>"
+      }
+    ],
+    "media": [
+      "/img/royal-cedar-hotel-phase-2-ajah.jpg",
+      "/img/1.jpeg",
+      "/img/2.jpeg",
+      "/img/3.jpeg",
+      "/img/4.jpeg",
+      "/img/5.jpeg"
+    ]
+  },
+  {
+    "slug": "institutional-building",
+    "title": "NEM Insurance Plc",
+    "category": "Institutional",
+    "facts": [
+      {
+        "label": "Client",
+        "value": "NEM Insurance Plc"
+      },
+      {
+        "label": "Location",
+        "value": "Multiple Office Locations, Nigeria"
+      },
+      {
+        "label": "Service Period",
+        "value": "Ongoing"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Technical Supervision Facilities Consultancy Preventive & Corrective Maintenance Quality & Compliance Oversight"
+      },
+      {
+        "label": "Engagement Type",
+        "value": "Professional Services"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            The NEM Insurance Plc facilities engagement focused on professional consultancy, technical\n                            supervision,\n                            and ongoing maintenance support across selected corporate offices.\n                            The scope of work was designed to ensure operational efficiency, regulatory compliance,\n                            and the long-term integrity of insured assets.\n                        </p>\n                        <p>\n                            Our team worked closely with NEM Insurance Plc\u2019s management and facility stakeholders to\n                            deliver\n                            expert advisory services, quality control supervision, and preventive maintenance strategies\n                            tailored to the organization\u2019s operational needs.\n                        </p>"
+      },
+      {
+        "title": "Challenges",
+        "html": "<ul>\n                            <li>\n                                <strong>Operational Continuity:</strong> Executing supervision and maintenance\n                                activities without\n                                disrupting daily business operations.\n                            </li>\n                            <li>\n                                <strong>Asset Protection:</strong> Ensuring that facilities met safety, insurance, and\n                                regulatory standards\n                                across multiple locations.\n                            </li>\n                            <li>\n                                <strong>Quality Assurance:</strong> Coordinating contractors and service providers to\n                                maintain consistent\n                                workmanship and compliance.\n                            </li>\n                        </ul>"
+      },
+      {
+        "title": "Outcome",
+        "html": "<p>\n                            The engagement resulted in improved facility performance, enhanced asset reliability,\n                            and reduced operational risks.\n                            Through effective supervision, consultancy, and maintenance planning,\n                            NEM Insurance Plc\u2019s facilities continue to operate efficiently while meeting\n                            required industry and safety standards.\n                        </p>"
+      }
+    ],
+    "media": [
+      "/img/NEM-Insurance-Plc.jpg",
+      "/img/nem.mp4",
+      "/img/nem1.mp4"
+    ]
+  },
+  {
+    "slug": "mixed-housing-agungi",
+    "title": "Agungi Mixed Housing",
+    "category": "Residential",
+    "facts": [
+      {
+        "label": "Client",
+        "value": "Undisclosed"
+      },
+      {
+        "label": "Location",
+        "value": "Agungi, Lagos"
+      },
+      {
+        "label": "Status",
+        "value": "Completed"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Construction"
+      },
+      {
+        "label": "Value",
+        "value": "Undisclosed"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            The Mixed Housing project at Agungi involves the construction of a series of modern\n                            residential units designed to cater to diverse housing needs.\n                            The development integrates high-quality construction materials with contemporary design\n                            aesthetics.\n                        </p>\n                        <p>\n                            This project aims to provide comfortable, secure, and stylish living spaces in one of\n                            Lagos's rapidly developing neighborhoods.\n                        </p>"
+      },
+      {
+        "title": "Challenges",
+        "html": "<ul>\n                            <li><strong>Space Optimization:</strong> Maximizing the number of units while ensuring ample\n                                living space and amenities.</li>\n                            <li><strong>Site Logistics:</strong> Efficiently managing materials and construction flow in\n                                a developing area.</li>\n                        </ul>"
+      },
+      {
+        "title": "Outcome",
+        "html": "<p>\n                            A high-standard residential complex that offers value and quality living to its residents.\n                        </p>"
+      }
+    ],
+    "media": []
+  },
+  {
+    "slug": "nem-quarters",
+    "title": "Directors' Quarters",
+    "category": "Residential",
+    "facts": [
+      {
+        "label": "Client",
+        "value": "NEM Insurance Plc"
+      },
+      {
+        "label": "Location",
+        "value": "Oniru Estate, Lagos"
+      },
+      {
+        "label": "Status",
+        "value": "Completed"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Consultancy on Supervision"
+      },
+      {
+        "label": "Value",
+        "value": "Undisclosed"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            We provided expert consultancy on the supervision of the NEM Insurance Directors' Quarters\n                            at Oniru Estate, Lagos.\n                            Our role was to ensure that the construction adhered to the highest standards of quality and\n                            safety.\n                        </p>\n                        <p>\n                            The project involved detailed inspections, progress monitoring, and quality assurance to\n                            meet client expectations.\n                        </p>"
+      },
+      {
+        "title": "Challenges",
+        "html": "<ul>\n                            <li><strong>Quality Control:</strong> Implementing strict quality control measures to\n                                maintain high standards.</li>\n                            <li><strong>Coordination:</strong> Ensuring effective communication and coordination between\n                                various contractors and stakeholders.</li>\n                        </ul>"
+      },
+      {
+        "title": "Outcome",
+        "html": "<p>\n                            A successful project completion that stands as a testament to our dedication to excellence\n                            in project supervision.\n                        </p>"
+      }
+    ],
+    "media": []
+  },
+  {
+    "slug": "renovation-project",
+    "title": "Rightway House",
+    "category": "Remodeling",
+    "facts": [
+      {
+        "label": "Client",
+        "value": "Private Client"
+      },
+      {
+        "label": "Location",
+        "value": "Lagos, Nigeria"
+      },
+      {
+        "label": "Year Completed",
+        "value": "2023"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Building Remodeling Event Space Design Structural & MEP Upgrades Interior Finishing"
+      },
+      {
+        "label": "Facility Type",
+        "value": "Event Center"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            This project involved the comprehensive remodeling of an existing building into a fully\n                            functional,\n                            modern event center designed to host social, corporate, and ceremonial gatherings.\n                            The objective was to transform the aging structure into a versatile, high-capacity venue\n                            while meeting contemporary safety, comfort, and aesthetic standards.\n                        </p>\n                        <p>\n                            Our scope of work included spatial reconfiguration, structural upgrades, interior finishing,\n                            and the installation of modern electrical, lighting, and climate control systems.\n                            The result is a flexible event space capable of accommodating a wide range of functions.\n                        </p>"
+      },
+      {
+        "title": "Challenges",
+        "html": "<ul>\n                            <li>\n                                <strong>Structural Adaptation:</strong> Modifying the existing structure to support\n                                large crowd loads\n                                and open-span event spaces.\n                            </li>\n                            <li>\n                                <strong>Acoustic Control:</strong> Designing sound insulation and acoustics suitable for\n                                events\n                                without disturbing surrounding properties.\n                            </li>\n                            <li>\n                                <strong>Modern Compliance:</strong> Upgrading the facility to meet current fire safety,\n                                accessibility, and building regulations.\n                            </li>\n                        </ul>"
+      },
+      {
+        "title": "Outcome",
+        "html": "<p>\n                            The remodeled facility was successfully delivered as a modern event center with enhanced\n                            capacity,\n                            improved aesthetics, and optimized functionality.\n                            The space now supports weddings, conferences, exhibitions, and corporate events,\n                            significantly increasing the commercial value and usability of the property.\n                        </p>"
+      }
+    ],
+    "media": [
+      "/img/remodelled-rightway-house-at-ikeja-1.jpg"
+    ]
+  },
+  {
+    "slug": "residential-monrovia",
+    "title": "Monrovia Residence",
+    "category": "Residential",
+    "facts": [
+      {
+        "label": "Client",
+        "value": "Private Client"
+      },
+      {
+        "label": "Location",
+        "value": "Monrovia, Liberia"
+      },
+      {
+        "label": "Year Completed",
+        "value": "2024"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Architectural Design Construction Management"
+      },
+      {
+        "label": "Value",
+        "value": "Undisclosed"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            We are proud to have delivered this exquisite residential project in Monrovia, Liberia.\n                            The project showcases our ability to execute high-standard construction and design\n                            projects across borders.\n                        </p>\n                        <p>\n                            From conceptualization to the final finishes, every detail was carefully considered to\n                            ensure\n                            a luxurious and comfortable living environment.\n                        </p>"
+      },
+      {
+        "title": "Challenges",
+        "html": "<ul>\n                            <li><strong>Logistics:</strong> Coordinating international supply chains and logistics for\n                                materials.</li>\n                            <li><strong>Regulations:</strong> Navigating local building codes and regulations in\n                                Liberia.</li>\n                        </ul>"
+      },
+      {
+        "title": "Outcome",
+        "html": "<p>\n                            A stand-out residential property that blends modern architecture with the local charm of\n                            Monrovia.\n                        </p>"
+      }
+    ],
+    "media": [
+      "/img/libaria.jpeg",
+      "/img/libaria1.jpeg",
+      "/img/libaria2.jpeg",
+      "/img/libaria3.jpeg"
+    ]
+  },
+  {
+    "slug": "residential-mowe",
+    "title": "Mowe Residence",
+    "category": "Residential",
+    "facts": [
+      {
+        "label": "Client",
+        "value": "Private Client"
+      },
+      {
+        "label": "Location",
+        "value": "Mowe, Ogun State"
+      },
+      {
+        "label": "Year Completed",
+        "value": "2024"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Architectural Design Construction"
+      },
+      {
+        "label": "Value",
+        "value": "Undisclosed"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            This project involved the design and construction of a private residence in Mowe, Ogun\n                            State.\n                            The brief called for a modern, functional home that maximizes family living spaces while\n                            maintaining privacy.\n                        </p>\n                        <p>\n                            We focused on creating a design that is both aesthetically pleasing and structurally sound,\n                            ensuring\n                            use of quality materials and efficient spatial planning.\n                        </p>"
+      },
+      {
+        "title": "Challenges",
+        "html": "<ul>\n                            <li><strong>Site Topography:</strong> Adapting the level design to the natural terrain of\n                                the site.</li>\n                            <li><strong>Material Sourcing:</strong> Ensuring timely delivery of high-quality materials\n                                to the Mowe location.</li>\n                        </ul>"
+      },
+      {
+        "title": "Outcome",
+        "html": "<p>\n                            A beautifully finished residence that meets the client's vision for a modern family home.\n                        </p>"
+      }
+    ],
+    "media": [
+      "/img/mowe.jpeg",
+      "/img/mowe1.jpeg"
+    ]
+  },
+  {
+    "slug": "residential-villa",
+    "title": "Modern Luxury Villa",
+    "category": "Residential",
+    "facts": [
+      {
+        "label": "Client",
+        "value": "Private Client"
+      },
+      {
+        "label": "Location",
+        "value": "Omole Phase 1,Ikeja Lagos"
+      },
+      {
+        "label": "Year Completed",
+        "value": "2023"
+      },
+      {
+        "label": "Scope of Work",
+        "value": "Architectural Design Structural Engineering Construction Interior Finishing"
+      },
+      {
+        "label": "Value",
+        "value": "Confidential"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Project Overview",
+        "html": "<p>\n                            This project involved the design and construction of a luxury 5-bedroom residential villa.\n                            The client desired a modern, open-concept home that maximized natural light while\n                            maintaining privacy.\n                            Our team delivered a turnkey solution, handling everything from architectural design to\n                            interior finishing.\n                        </p>\n                        <p>\n                            The design features clean lines, expansive glass facades, and a seamless integration of\n                            indoor and outdoor living spaces.\n                            Sustainable materials were used throughout to ensure durability and eco-friendliness.\n                        </p>"
+      },
+      {
+        "title": "Challenges",
+        "html": "<ul>\n                            <li><strong>Site Constraints:</strong> The plot had an irregular shape, requiring a custom\n                                structural layout.</li>\n                            <li><strong>Timeline:</strong> The project had a strict 5-month delivery window.</li>\n                            <li><strong>Material Sourcing:</strong> High-end finishes had to be imported and cleared on\n                                schedule.</li>\n                        </ul>"
+      },
+      {
+        "title": "Outcome",
+        "html": "<p>\n                            Despite the challenges, the project was delivered on time and within budget. The final\n                            result is a stunning\n                            residence that stands as a testament to modern Nigerian architecture. The client was\n                            exceptionally pleased\n                            with the quality of workmanship and the attention to detail.\n                        </p>"
+      }
+    ],
+    "media": [
+      "/img/house.jpeg",
+      "/img/house.mp4"
+    ]
+  }
+]

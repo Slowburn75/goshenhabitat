@@ -1,100 +1,51 @@
-import './style.css'
-import './gallery.js'
+import { initGallery } from './gallery.js';
 
-document.querySelector('#app').innerHTML = `
+const menu = document.querySelector('#mobile-menu');
+const menuButton = document.querySelector('#mobile-menu-btn');
+const closeButton = document.querySelector('#close-menu-btn');
 
-`
-const slides = document.querySelectorAll('.testimonial-slide');
-let index = 0;
-
-function showSlide(i) {
-  slides.forEach((slide, idx) => {
-    slide.classList.toggle('hidden', idx !== i);
+if (menu && menuButton) {
+  menuButton.addEventListener('click', () => {
+    menu.showModal();
+    menuButton.setAttribute('aria-expanded', 'true');
+    document.body.classList.add('modal-open');
+    closeButton?.focus();
+  });
+  const closeMenu = () => menu.close();
+  closeButton?.addEventListener('click', closeMenu);
+  menu.querySelectorAll('a').forEach(link => link.addEventListener('click', closeMenu));
+  menu.addEventListener('close', () => {
+    menuButton.setAttribute('aria-expanded', 'false');
+    document.body.classList.remove('modal-open');
+    menuButton.focus({ preventScroll: true });
+  });
+  // A desktop resize must not leave a modal covering the page.
+  matchMedia('(min-width: 1001px)').addEventListener('change', event => {
+    if (event.matches && menu.open) menu.close();
   });
 }
 
-if (document.getElementById('next')) {
-  document.getElementById('next').onclick = () => {
-    index = (index + 1) % slides.length;
-    showSlide(index);
-  };
-}
-
-if (document.getElementById('prev')) {
-  document.getElementById('prev').onclick = () => {
-    index = (index - 1 + slides.length) % slides.length;
-    showSlide(index);
-  };
-}
-
-// Optional auto-play
-if (slides.length > 0) {
-  setInterval(() => {
-    index = (index + 1) % slides.length;
-    showSlide(index);
-  }, 6000);
-}
-
-document.addEventListener("DOMContentLoaded", () => {
-  const reveals = document.querySelectorAll(".reveal");
-
-  const observer = new IntersectionObserver(
-    entries => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add("reveal-visible");
-          observer.unobserve(entry.target);
-        }
-      });
-    },
-    { threshold: 0.30 }
-  );
-
-  reveals.forEach(el => observer.observe(el));
-
-  // Mobile Menu Logic
-  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
-  const closeMenuBtn = document.getElementById('close-menu-btn');
-  const mobileMenu = document.getElementById('mobile-menu');
-
-  if (mobileMenuBtn && mobileMenu) {
-    const toggleMenu = () => {
-      const isHidden = mobileMenu.classList.contains('hidden');
-      if (isHidden) {
-        mobileMenu.classList.remove('hidden');
-        document.body.classList.add('overflow-hidden');
-      } else {
-        mobileMenu.classList.add('hidden');
-        document.body.classList.remove('overflow-hidden');
+const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
+if ('IntersectionObserver' in window && !reducedMotion.matches) {
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('reveal-visible');
+        observer.unobserve(entry.target);
       }
-    };
-
-    mobileMenuBtn.addEventListener('click', toggleMenu);
-
-    if (closeMenuBtn) {
-      closeMenuBtn.addEventListener('click', toggleMenu);
-    }
-
-    // Close on link click
-    mobileMenu.querySelectorAll('a').forEach(link => {
-      link.addEventListener('click', () => {
-        mobileMenu.classList.add('hidden');
-        document.body.classList.remove('overflow-hidden');
-      });
     });
-  }
-});
-
-const header = document.querySelector('header');
-if (header) {
-  window.addEventListener('scroll', () => {
-    if (window.scrollY > 40) {
-      header.classList.add('bg-black/70');
-      header.classList.remove('bg-black/40');
-    } else {
-      header.classList.add('bg-black/40');
-      header.classList.remove('bg-black/70');
+  }, { threshold: 0.08, rootMargin: '0px 0px 20px 0px' });
+  document.querySelectorAll('[data-reveal]').forEach(element => {
+    // Never hide content already visible, or a sticky sidebar.
+    if (element.getBoundingClientRect().top > innerHeight) element.classList.add('reveal-ready');
+    observer.observe(element);
+  });
+  reducedMotion.addEventListener('change', event => {
+    if (event.matches) {
+      observer.disconnect();
+      document.querySelectorAll('.reveal-ready').forEach(element => element.classList.add('reveal-visible'));
     }
   });
 }
 
+initGallery();

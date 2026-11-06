@@ -1,0 +1,418 @@
+{
+  "/img/download.jpeg": {
+    "width": 203,
+    "height": 248,
+    "variants": [
+      {
+        "src": "/img/optimized/download-203.webp",
+        "width": 203
+      }
+    ]
+  },
+  "/img/remodelled-rightway-house-at-ikeja-1.jpg": {
+    "width": 675,
+    "height": 507,
+    "variants": [
+      {
+        "src": "/img/optimized/remodelled-rightway-house-at-ikeja-1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/remodelled-rightway-house-at-ikeja-1-675.webp",
+        "width": 675
+      }
+    ]
+  },
+  "/img/church6.jpeg": {
+    "width": 1106,
+    "height": 315,
+    "variants": [
+      {
+        "src": "/img/optimized/church6-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/church6-1106.webp",
+        "width": 1106
+      }
+    ]
+  },
+  "/img/ilawe.jpeg": {
+    "width": 2560,
+    "height": 1440,
+    "variants": [
+      {
+        "src": "/img/optimized/ilawe-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/ilawe-2560.webp",
+        "width": 2560
+      }
+    ]
+  },
+  "/img/WhatsApp Image 2025-12-19 at 19.10.45.jpeg": {
+    "width": 1080,
+    "height": 607,
+    "variants": [
+      {
+        "src": "/img/optimized/WhatsApp-Image-2025-12-19-at-19.10.45-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/WhatsApp-Image-2025-12-19-at-19.10.45-1080.webp",
+        "width": 1080
+      }
+    ]
+  },
+  "/img/mowe.jpeg": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "src": "/img/optimized/mowe-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/mowe-1280.webp",
+        "width": 1280
+      }
+    ]
+  },
+  "/img/1.jpeg": {
+    "width": 800,
+    "height": 1067,
+    "variants": [
+      {
+        "src": "/img/optimized/1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/1-800.webp",
+        "width": 800
+      }
+    ]
+  },
+  "/img/church7.jpeg": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "src": "/img/optimized/church7-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/church7-1280.webp",
+        "width": 1280
+      }
+    ]
+  },
+  "/img/download (1).jpeg": {
+    "width": 225,
+    "height": 225,
+    "variants": [
+      {
+        "src": "/img/optimized/download-(1)-225.webp",
+        "width": 225
+      }
+    ]
+  },
+  "/img/libaria1.jpeg": {
+    "width": 960,
+    "height": 540,
+    "variants": [
+      {
+        "src": "/img/optimized/libaria1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/libaria1-960.webp",
+        "width": 960
+      }
+    ]
+  },
+  "/img/royal-cedar-hotel-phase-2-ajah.jpg": {
+    "width": 869,
+    "height": 652,
+    "variants": [
+      {
+        "src": "/img/optimized/royal-cedar-hotel-phase-2-ajah-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/royal-cedar-hotel-phase-2-ajah-869.webp",
+        "width": 869
+      }
+    ]
+  },
+  "/img/church1.jpeg": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "src": "/img/optimized/church1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/church1-1280.webp",
+        "width": 1280
+      }
+    ]
+  },
+  "/img/house.jpeg": {
+    "width": 960,
+    "height": 1280,
+    "variants": [
+      {
+        "src": "/img/optimized/house-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/house-960.webp",
+        "width": 960
+      }
+    ]
+  },
+  "/img/libaria3.jpeg": {
+    "width": 960,
+    "height": 540,
+    "variants": [
+      {
+        "src": "/img/optimized/libaria3-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/libaria3-960.webp",
+        "width": 960
+      }
+    ]
+  },
+  "/img/4.jpeg": {
+    "width": 800,
+    "height": 1067,
+    "variants": [
+      {
+        "src": "/img/optimized/4-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/4-800.webp",
+        "width": 800
+      }
+    ]
+  },
+  "/img/church2.jpeg": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "src": "/img/optimized/church2-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/church2-1280.webp",
+        "width": 1280
+      }
+    ]
+  },
+  "/img/WhatsApp Image 2026-01-12 at 08.03.00.jpeg": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "src": "/img/optimized/WhatsApp-Image-2026-01-12-at-08.03.00-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/WhatsApp-Image-2026-01-12-at-08.03.00-1280.webp",
+        "width": 1280
+      }
+    ]
+  },
+  "/img/libaria.jpeg": {
+    "width": 960,
+    "height": 540,
+    "variants": [
+      {
+        "src": "/img/optimized/libaria-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/libaria-960.webp",
+        "width": 960
+      }
+    ]
+  },
+  "/img/ilawe2.jpeg": {
+    "width": 2560,
+    "height": 1440,
+    "variants": [
+      {
+        "src": "/img/optimized/ilawe2-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/ilawe2-2560.webp",
+        "width": 2560
+      }
+    ]
+  },
+  "/img/church3.jpeg": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "src": "/img/optimized/church3-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/church3-1280.webp",
+        "width": 1280
+      }
+    ]
+  },
+  "/img/5.jpeg": {
+    "width": 800,
+    "height": 1067,
+    "variants": [
+      {
+        "src": "/img/optimized/5-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/5-800.webp",
+        "width": 800
+      }
+    ]
+  },
+  "/img/NEM-Insurance-Plc.jpg": {
+    "width": 1800,
+    "height": 1126,
+    "variants": [
+      {
+        "src": "/img/optimized/NEM-Insurance-Plc-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/NEM-Insurance-Plc-1800.webp",
+        "width": 1800
+      }
+    ]
+  },
+  "/img/libaria2.jpeg": {
+    "width": 960,
+    "height": 540,
+    "variants": [
+      {
+        "src": "/img/optimized/libaria2-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/libaria2-960.webp",
+        "width": 960
+      }
+    ]
+  },
+  "/img/2.jpeg": {
+    "width": 800,
+    "height": 1067,
+    "variants": [
+      {
+        "src": "/img/optimized/2-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/2-800.webp",
+        "width": 800
+      }
+    ]
+  },
+  "/img/church4.jpeg": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "src": "/img/optimized/church4-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/church4-1280.webp",
+        "width": 1280
+      }
+    ]
+  },
+  "/img/mowe1.jpeg": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "src": "/img/optimized/mowe1-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/mowe1-1280.webp",
+        "width": 1280
+      }
+    ]
+  },
+  "/img/church5.jpeg": {
+    "width": 1280,
+    "height": 720,
+    "variants": [
+      {
+        "src": "/img/optimized/church5-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/church5-1280.webp",
+        "width": 1280
+      }
+    ]
+  },
+  "/img/3.jpeg": {
+    "width": 800,
+    "height": 1067,
+    "variants": [
+      {
+        "src": "/img/optimized/3-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/3-800.webp",
+        "width": 800
+      }
+    ]
+  },
+  "/img/hog.jpg": {
+    "width": 729,
+    "height": 547,
+    "variants": [
+      {
+        "src": "/img/optimized/hog-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/hog-729.webp",
+        "width": 729
+      }
+    ]
+  },
+  "/img/architecture-joel-filipe.jpg": {
+    "width": 2400,
+    "height": 3397,
+    "variants": [
+      {
+        "src": "/img/optimized/architecture-joel-filipe-640.webp",
+        "width": 640
+      },
+      {
+        "src": "/img/optimized/architecture-joel-filipe-1280.webp",
+        "width": 1280
+      },
+      {
+        "src": "/img/optimized/architecture-joel-filipe-2400.webp",
+        "width": 2400
+      }
+    ]
+  }
+}

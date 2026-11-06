@@ -6,7 +6,10 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "prebuild": "node scripts/render-pages.mjs",
+    "predev": "node scripts/render-pages.mjs",
+    "check": "node scripts/render-pages.mjs && node scripts/check-site.mjs"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.18",

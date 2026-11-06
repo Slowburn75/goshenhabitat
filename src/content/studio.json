@@ -1,0 +1,31 @@
+{
+  "paragraphs": [
+    "Goshen Habitat Concept Limited is a premier architectural and construction firm based in Nigeria. Registered with the Corporate Affairs Commission (CAC), we deliver high-quality residential, commercial, and institutional projects.",
+    "Our journey began with a simple mission: to transform the Nigerian landscape through sustainable and innovative construction practices.",
+    "Our team of experienced professionals is dedicated to delivering exceptional results using modern construction technologies and best practices.",
+    "Our services include Architectural and Structural Design, Construction, Project Management, Facility Management, Consultancy Services, and Environmental Conservation.",
+    "We build long-term relationships founded on trust, transparency, and consistent performance."
+  ],
+  "team": [
+    {
+      "name": "Adeyinka Oluwarotimi",
+      "role": "Lead Architect",
+      "bio": "Adeyinka is a highly qualified and experienced Architect with over 15 years of experience across different fields in the profession of Architecture; from designs, site supervision to senior corporate management. He has also been a successful manager and director occupying several managing positions, with a sound quality control skills."
+    },
+    {
+      "name": "Mujidat Oladipo",
+      "role": "Site Supervisor",
+      "bio": "Mujidat graduated from Kwara State Polytechnic, Ilorin, where she obtained her OND and HND in 1998 and 2002 respectively. She had her NYSC Programme with Lagos State Ministry of Works between 1992 and 1993. She proceeded to the Rivers State University of Science and Technology, Port-Harcourt to obtain a B.Tech in Urban and Regional Planning. She joined GOSHEN HABITAT CONCEPT LIMITED as the site supervisor in 2012."
+    },
+    {
+      "name": "Taiwo Tifase",
+      "role": "Structural Engineer",
+      "bio": "Taiwo is a sound and highly experienced Structural Engineer with over 6 years of practice. He has had a distinguished professional career as a Civil Engineer specializing in Structures. has vast in structural designs, having a good eye for details and well experienced in supervisory constructions of high rise buildings. He is a member of the Nigerian Society of Engineers and Nigerian Institute of Structural Engineers"
+    },
+    {
+      "name": "Anetor Iyoyojie",
+      "role": "Project Designer",
+      "bio": "Anetor is a highly qualified and experienced Project Architect with nearly 15 years of experience across different fields in the profession, from consultancy and design to senior corporate management. He has had a distinguished professional practice as an Architect specializing in Buildings and interior designs. He also had a Post Graduate Diploma in Construction Management. He is proficient in the use of CAD and Architectural modeling software."
+    }
+  ]
+}
